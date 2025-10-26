@@ -44,11 +44,9 @@ It allows **admins** to add or view bakery items and **customers** to order and 
 
 1. Make sure `bakery_items.txt` exists with some data.
 2. Compile and run:
-
-   ```bash
 !g++ main.cpp bakery.cpp bakery.h -o output.a
 !./output.a
-   ```
+
 3. Choose menu: Admin or Customer
 4. Follow on-screen instructions
 
